@@ -56,6 +56,7 @@ Web agents are AI systems that can browse, interact with, and automate tasks on 
 - [Mind2Web](https://osu-nlp-group.github.io/Mind2Web/) — Large-scale dataset for web agents with 2,000+ tasks across 137 websites.
 - [WebVoyager](https://github.com/MinorJerry/WebVoyager) — End-to-end web agent benchmark using real-world websites. 643 tasks across 15 sites.
 - [WorkArena](https://github.com/ServiceNow/WorkArena) — Benchmark for web agents on enterprise applications (ServiceNow). ICML 2024.
+- [ClawBench](https://github.com/reacher-z/ClawBench) — Live-web browser-agent benchmark with 283 tasks across 163 websites, isolated execution, request interception, and replayable multi-layer traces. [Paper](https://arxiv.org/abs/2604.08523) · [Project](https://claw-bench.com/)
 
 ## Anti-Bot & Evasion
 
